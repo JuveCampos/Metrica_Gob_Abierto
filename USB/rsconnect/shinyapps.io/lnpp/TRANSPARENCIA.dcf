@@ -1,0 +1,12 @@
+name: TRANSPARENCIA
+title: TRANSPARENCIA
+username:
+account: lnpp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 397231
+bundleId: 1524900
+url: https://lnpp.shinyapps.io/TRANSPARENCIA/
+when: 1533741219.35541
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,22 @@
+---
+output: html_document
+---
+
+# INTRODUCCION
+
+## Metrica de gobierno Abierto 2017 y 2019
+
+<span style="color:green"> La Metrica de Gobierno Abierto mide que tanto puede conocer un ciudadano lo que hacen sus gobiernos y que tanto puede incidir en sus decisiones. La Metrica sirve de linea base para las politicas de Gobierno Abierto implementadas por el INAI y por los demas integrantes del SNT. </span>
+
+La Metrica parte de una definicion de Gobierno Abierto fundada en dos componentes, transparencia y participacion ciudadana, y dos perspectivas complementarias: la gubernamental, o la oferta de mecanismos, y la ciudadana, o la demanda para utilizar dichos instrumentos. La definicion empleada en la Metrica es consistente con el Documento Teorico del Modelo de Gobierno Abierto adoptado por el Consejo Nacional del SNT en 2016 como texto guia para las acciones de apertura institucional a desarrollar en el marco de este Sistema.
+
+Un primer hallazgo que se desprende de los resultados de la Metrica es que los sujetos obligados (incluso varios de reciente incorporacion a este regimen normativo) han internalizado la transparencia como parte de su actuar cotidiano. De las poco mas de 3,600 solicitudes de informacion realizadas por este estudio, 83% fueron respondidas y en 70% de ellas los sujetos obligados brindaron informacion completa. De hecho, al analizar con mayor detalle el Subindice de Transparencia, se encuentra que el acceso a la informacion y la posibilidad de que los ciudadanos obtengan informacion sobre temas especificos de politica publica que afectan su vida cotidiana son los elementos mas robustos en materia de Gobierno Abierto en nuestro pais.
+
+Este ejercicio se llevo a cabo en dos periodos distintos, en 2016 para 2017 y en 2018 para 2019.
+
+<span style="color:green"> En la presente aplicacion se muestran los resultados mas relevantes del ejercicio de la creacion de la Metrica 2017 y la Metrica 2019, tales como informacion a nivel geografico, comparativas entre estados y entre tipos de Sujeto Obligado, asi como Comparativas entre sujetos obligados comparables. </span>
+
+_Puede consultarse el resumen ejecutivo en el archivo que se presenta a continuacion._
+
+
+
